@@ -1,36 +1,20 @@
+<h1>Wildbeast 🐺</h1>
 
+<div style="text-align: justify;">
+Wildbeast é uma pagina feita para praticar as propriedades do Grid layout.<br/><br/>
 
-# 💻 Wildbeast
-
----
-
-## 🗒️ Sobre o projeto
-
-Wildbeast é uma pagina feita para praticar as propriedades do Grid layout.
-
-<a href="https://vleonecezar.github.io/wildbeast/">CLIQUE AQUI PARA TESTAR</a>
-
----
+<a href="https://vleonecezar.github.io/wildbeast/">Clique aqui para testar</a>
+</div>
 
 ## 🛠 Tecnologias
 
-### Frontend:
+- <code>HTML</code>
+- <code>CSS</code>
 
--   HTML
--   CSS
-
----
-
-## 🎨 Screens
-
-### Web
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Wildbeast" src="./img/wildbeast.jpg" width="690px">
-</p>
-
-### Mobile
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Wildbeast" src="./img/wildbeast-mobile.png" width="390px">
-</p>
+## 💻 Screens 📱
+<div align="center">
+  
+![wildbeast](https://user-images.githubusercontent.com/76831929/155633443-fcf91f8f-8415-4555-bfbd-f346f8b1e426.jpg)
+![wildbeast-mobile](https://user-images.githubusercontent.com/76831929/155633451-e5ea2514-4841-462c-914c-feaf2e7ec443.png)
+  
+</div>
